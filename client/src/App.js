@@ -19,6 +19,14 @@ function App() {
           >
             Learn React With Me!!!
           </a>
+          <a
+            className="App-link"
+            href="https://reactjs.org"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Running on Kubernetes!!!
+          </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
